@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/176560/f54a499b87694de4b175814cc667dde9
+bundleId: https://api.rpubs.com/api/v1/document/176560/f54a499b87694de4b175814cc667dde9
+url: http://rpubs.com/Tadashi/176560
+when: 1461848241.57847
